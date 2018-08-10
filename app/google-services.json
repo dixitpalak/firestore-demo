@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "71058479731",
+    "firebase_url": "https://firestore-demo-3420d.firebaseio.com",
+    "project_id": "firestore-demo-3420d",
+    "storage_bucket": "firestore-demo-3420d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71058479731:android:8c3eefd066a660c6",
+        "android_client_info": {
+          "package_name": "com.knoxpo.palak.firestoredemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71058479731-6247viv8p1420otgfocgbscbqgktti9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOxnUSbI0YKsV6byMGtFQr5O991wE3Y70"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
